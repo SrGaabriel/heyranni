@@ -17,7 +17,8 @@ module.exports = class HeyRanni extends Plugin {
     "https://cdn.discordapp.com/attachments/297732013006389252/665225311008456714/a_ranni_burro.png",
     "https://cdn.discordapp.com/attachments/297732013006389252/665225315521658880/a_ranni_gado.png",
     "https://cdn.discordapp.com/attachments/297732013006389252/665226151601635329/a_ranni_pride.png",
-    "https://cdn.discordapp.com/attachments/297732013006389252/665226153094676480/a_ranni_mention.png"
+    "https://cdn.discordapp.com/attachments/297732013006389252/665226153094676480/a_ranni_mention.png",
+    "https://cdn.discordapp.com/attachments/297732013006389252/665225310798872576/20181230_014542.gif"
     ]
   }
 
