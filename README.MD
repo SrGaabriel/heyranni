@@ -1,4 +1,4 @@
-# pc-heyranni
+# heyranni
 This bascially replaces every image on Discord with Ranni's ugly face, it's kinda a heygirl command copy, isn't it?
 ## Command options
 run `[your powercord prefix]heyranni` for all kinds of image
