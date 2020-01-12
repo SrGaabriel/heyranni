@@ -8,6 +8,7 @@ module.exports = class HeyRanni extends Plugin {
     "https://cdn.discordapp.com/emojis/648510943076155392.png?v=1",
     "https://cdn.discordapp.com/emojis/623940676530470927.gif?v=1",
     "https://cdn.discordapp.com/emojis/624022144178716673.png?v=1",
+    "https://cdn.discordapp.com/emojis/623696726288760838.gif?v=1"
     ]
     this.images = [
     "https://cdn.discordapp.com/attachments/297732013006389252/665224716797083649/unknown.png",
